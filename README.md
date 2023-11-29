@@ -20,7 +20,9 @@ Pages
 
 Images:
 
-![task1](https://github.com/Uchhia/TaskManager/assets/103598945/5d3025f1-4ea2-4223-84b1-68ce7f215902)
+![image4](https://github.com/Uchhia/TaskManager/assets/103598945/addff36c-36c1-4738-b915-a23548b60681)
+
+
 
 Color Indicates Different Priority and Completeness
 
