@@ -1,0 +1,29 @@
+.start {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background-color: #001f48;
+}
+.start h1 {
+  position: absolute;
+  width: 100vw;
+  font-size: 8vw;
+  color: #d3d3d3;
+  top: 0px;
+  left: 20vw;
+}
+
+.start button {
+  padding-bottom: 1.4vw;
+  font-weight: 700;
+  position: absolute;
+  font-size: 3vw;
+  top: 25vw;
+  left: 42vw;
+  height: 5vw;
+  width: 12vw;
+  border: none;
+  background-color: #87ceeb;
+  color: #d3d3d3;
+  border-radius: 10px;
+}

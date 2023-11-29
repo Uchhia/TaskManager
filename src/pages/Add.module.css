@@ -1,0 +1,55 @@
+.main {
+  display: flex;
+  gap: 4vw;
+}
+.form {
+  position: relative;
+  left: 7vw;
+  width: 35%;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1.5vw;
+
+  padding: 0vw 2vw;
+}
+.form label {
+  font-size: 1.5vw;
+  font-weight: 700;
+  color: #001f48;
+}
+.form textarea {
+  height: 4vw;
+  width: 25vw;
+  font-size: 1vw;
+}
+
+.form h1 {
+  font-size: 3vw;
+  color: gray;
+}
+
+.form input {
+  font-size: 2vw;
+  width: 25vw;
+  height: 2vw;
+}
+
+.form select {
+  width: 26vw;
+  font-size: 2vw;
+  font-weight: 700;
+  color: grey;
+}
+.form button {
+  width: 26vw;
+  font-size: 2vw;
+  font-weight: 700;
+  color: white;
+  background-color: rgb(0, 183, 255);
+}
+.main img {
+  width: 60vw;
+  height: 85vh;
+}

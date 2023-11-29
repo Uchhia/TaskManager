@@ -1,0 +1,8 @@
+.panel {
+  display: flex;
+  gap: 2vw;
+  height: calc(100% - 130px);
+  width: 100%;
+  overflow: auto;
+  margin-top: 2vw;
+}
